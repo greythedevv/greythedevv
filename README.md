@@ -51,11 +51,11 @@
 
 <div align="center">
   
-![Greatness's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greythedevv&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greythedevv&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greythedevv&layout=compact&theme=radical&hide_border=true)
+
 
 </div>
 
