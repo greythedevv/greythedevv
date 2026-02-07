@@ -1,8 +1,8 @@
 
-# Hey there 👋, I'm Greatness Oluwole
-
 <div align="center">
-  
+
+# <span style="font-size: 3em;">Hey there 👋, I'm Greatness Oluwole</span>
+
 ### 🚀 Aspiring Software Engineer | 🤖 AI & Robotics Enthusiast | 🌟 Problem Solver
 
 *"The future depends on what you do today!" - Mahatma Gandhi*
@@ -64,11 +64,11 @@
 
 ## 🎯 What I'm Working On
 
-- 🤖 Exploring AI and machine learning fundamentals
-- 🔬 Learning about robotics and automation
-- 💻 Building projects that combine software engineering with AI
-- 📚 Studying algorithms and their applications in solving real-world problems
-- 🌐 Contributing to open source projects in the AI/robotics space
+- 💻 Building a strong foundation in software engineering principles and best practices
+- 🔨 Developing projects to sharpen my coding and problem-solving skills
+- 🤖 Exploring how AI and robotics can be integrated into software solutions
+- 📚 Learning data structures, algorithms, and design patterns
+- 🌟 Looking ahead to the intersection of software engineering, AI, and robotics
 
 ---
 
