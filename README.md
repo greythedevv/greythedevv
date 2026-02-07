@@ -1,7 +1,7 @@
 <div align="center">
 # Hey there 👋, I'm Greatness Oluwole
-
-
+</div>
+<div align="center">
   
 ### 🚀 Aspiring Software Engineer | 🤖 AI & Robotics Enthusiast | 🌟 Problem Solver
 
