@@ -18,7 +18,7 @@
 - 📚 Always learning and exploring new technologies
 - 🤝 Open to collaborating on interesting projects
 
----
+-
 
 ## 🔧 Tech Stack
 
