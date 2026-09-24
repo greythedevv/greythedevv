@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm Greatness Oluwole
+# Hey there 👋, I'm Greatness Adeola Oluwole
 
 ### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🔧 Builder of Things That Work
 
